@@ -1,6 +1,6 @@
 # Basic
 title: 刘诗芹
-subtitle: A blog-orientation theme for Jekyll
+subtitle: 把时间当做朋友
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: Vno Jekyll is a port of my Ghost theme vno.
 creator: <a href="http://onev.cat">@onevcat</a>
@@ -17,12 +17,12 @@ cover_color: red
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
+    title: 博客
     description: Visit blog
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 项目, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,11 +37,9 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
     github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    phone: 127916
+    mail: 374498900@qq.com
 
 # Google Analytics
 ga:
