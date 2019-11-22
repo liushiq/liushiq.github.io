@@ -1,11 +1,11 @@
 # Basic
-title: 刘诗芹
-subtitle: 把时间当做朋友
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+title: Doris
+subtitle: 『把时间当做朋友』
+welcome_message: 嗨，我是芹菜，欢迎来到我的个人日志~
+description: 研究领域：深度学习 图像处理
+creator: <a href="http://liushiqin.com">@Doris</a>
 
-url: "http://vno.onevcat.com"
+url: "http://liushiqin.com"
 
 permalink: /:year/:month/:title/
 
@@ -19,7 +19,12 @@ cover_color: red
 blog_button:
     title: 博客
     description: Visit blog
-
+   
+# The blog button should not be removed.
+blog_button:
+    title: 项目
+    description: Visit projects
+ 
 # Navigation buttons in the front page.
 nav:
     - {title: 项目, description: My Projects, url: 'http://project.onevcat.com'}
