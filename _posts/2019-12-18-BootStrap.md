@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
 ### 今日任务
 
 #### 使用JQuery发送请求局部刷新页面
